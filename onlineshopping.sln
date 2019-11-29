@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "onlineshopping", "onlineshopping\onlineshopping.csproj", "{729D68AA-35A0-4AFC-8271-8A8DBAF3F38F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{729D68AA-35A0-4AFC-8271-8A8DBAF3F38F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{729D68AA-35A0-4AFC-8271-8A8DBAF3F38F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{729D68AA-35A0-4AFC-8271-8A8DBAF3F38F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{729D68AA-35A0-4AFC-8271-8A8DBAF3F38F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
