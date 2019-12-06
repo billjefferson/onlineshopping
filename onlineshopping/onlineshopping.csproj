@@ -118,6 +118,11 @@
     <Content Include="index\index.js" />
     <Content Include="lib\angular-route.js" />
     <Content Include="lib\angular.js" />
+    <Content Include="lib\ui-bootstrap-tpls-2.5.0.min.js" />
+    <Content Include="login\login.js" />
+    <Content Include="login\partial-login.html" />
+    <Content Include="modal\modal.html" />
+    <Content Include="modal\modal.js" />
     <Content Include="product\partial-productlist.html" />
     <Content Include="product\product.js" />
     <Content Include="Web.config" />

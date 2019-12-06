@@ -1,6 +1,6 @@
 ﻿(function () {
     "use strict";
-    var app = angular.module("OnlineShoppingApp", ["ngRoute"]);
+    var app = angular.module("OnlineShoppingApp", ["ngRoute", "ngAnimate", "ngSanitize", "ui.bootstrap"]);
 
     app.config(function ($routeProvider) {
         $routeProvider
@@ -13,6 +13,14 @@
                 controller: "ProductController"
             })
             
+    });
+
+    app.factory('OverlayService', function () {
+        return {
+            overlay: function () {
+
+            }
+        }
     });
 
 })();
